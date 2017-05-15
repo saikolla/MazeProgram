@@ -1,0 +1,19 @@
+Must use jdk version 7 or higher for the program to work .
+
+Copy contents to directory - C:\softwaredistribution\workspace\MazeProgram  (Or copy to your own directory)
+
+Opem command prompt
+
+cd C:\softwaredistribution\workspace\MazeProgram
+
+//compile all files using below command 
+C:\softwaredistribution\Sun\jdk1.7.0_79\bin\javac  Mirror.java PioneerTest.java Position.java LazerBoard.java
+
+//set classpath to current directory--From windows system if required.
+set classpath=classpath;.
+
+//run program using below command at the command line
+
+C:\softwaredistribution\Sun\jdk1.7.0_79\bin\java PioneerTest LazerBeamInputFile
+
+Pass different files instead of LazerBeamInputFile for testing .
