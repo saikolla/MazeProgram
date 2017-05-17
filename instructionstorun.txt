@@ -1,6 +1,6 @@
 Must use jdk version 7 or higher for the program to work .
 
-Copy contents to directory - C:\softwaredistribution\workspace\MazeProgram  (Or copy to your own directory)
+Copy contents to directory(clone from git) - C:\softwaredistribution\workspace\MazeProgram  (Or copy to your own directory)
 
 Opem command prompt .goto the directory where you have all the downloaded files .
 
